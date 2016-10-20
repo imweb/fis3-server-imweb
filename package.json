@@ -1,0 +1,35 @@
+{
+  "name": "fis3-server-imweb",
+  "version": "0.1.0",
+  "description": "fis3 server imweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imweb/fis3-server-imweb.git"
+  },
+  "keywords": [
+    "fis3",
+    "server",
+    "node",
+    "imweb"
+  ],
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "4.10.1",
+    "morgan": "1.6.1",
+    "multer": "^1.2.0",
+    "serve-index": "1.5.0",
+    "yog-devtools": "0.1.1"
+  },
+  "author": {
+    "name": "imweb team"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/imweb/fis3-server-imweb/issues"
+  },
+  "homepage": "https://github.com/imweb/fis3-server-imweb"
+}
